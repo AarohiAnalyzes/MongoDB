@@ -26,6 +26,7 @@ Notes, exercises, and code for my **MongoDB learning path**, inspired by the Mon
 
 ## 🧠 Tools & Technologies
 
+- **MongoDB Shell (Mongosh)** 
 - **MongoDB Compass**   
 - **Atlas Cloud Database**  
 - **PyMongo** for programming integration  
