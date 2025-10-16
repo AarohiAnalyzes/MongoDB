@@ -1,5 +1,5 @@
 # MongoDB-Learning-Journey  
-Notes, exercises, and code for my **MongoDB learning path**, inspired by the MongoDB University and online resources.
+Notes, exercises, and code for my **MongoDB learning path**, inspired by the MongoDB and online resources.
 
 ---
 
