@@ -1,7 +1,5 @@
 # Lesson 3: Data Formatting in Python
 
----
-
 ## 💡 What is Data Formatting?
 
 Data is often collected from **different sources** and stored in **different formats**.  
@@ -28,9 +26,6 @@ NY, ny, N.Y, NEW YORK
 **Formatted:**
 
 New York
-
----
-
 
 ---
 
